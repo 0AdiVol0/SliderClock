@@ -1,16 +1,33 @@
 # SliderClock
 Slider clock built with HTML, CSS, and JavaScript. Features sliders for hours, minutes, and seconds on a circular analog face with smooth real-time animations.
-Key Features
-Animated sliders (0-9) continuously scrolling numbers on hour, minute, and second rings.
+<div align="center">
 
-Real-time analog clock with rotating hands perfectly synced to slider animations.
+# ⏰ Slider Clock Animation
 
-Responsive design with fluid CSS transitions and hover effects.
-​
+![Slider Clock](images/screenshot.jpg)
 
-Tech Stack
-HTML5 for structure
+**Animated circular clock with smooth scrolling number sliders synchronized to real-time analog hands.** Built with pure HTML, CSS, and JavaScript.
 
-CSS3 for smooth animations and styling
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/slider-clock?style=social)](https://github.com/yourusername/slider-clock)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://yourusername.github.io/slider-clock)
+[![License](https://img.shields.io/github/license/yourusername/slider-clock)](LICENSE)
 
-Vanilla JavaScript for timing logic and synchronization
+</div>
+
+## ✨ Features
+
+<div align="center">
+  
+| Hour Slider | Minute Slider | Second Slider |
+|-------------|---------------|---------------|
+| ![Hour](images/hour-slider.gif) | ![Minute](images/minute-slider.gif) | ![Second](images/second-slider.gif) |
+
+</div>
+
+- **🎭 Smooth Animations**: Number wheels (0-9) continuously scroll with CSS transitions
+- **⚡ Real-time Sync**: Analog clock hands perfectly match slider positions
+- **📱 Fully Responsive**: Works on desktop, tablet, and mobile
+- **🚀 No Dependencies**: Vanilla HTML/CSS/JS only
+
+## 🛠️ Tech Stack
+
