@@ -8,6 +8,8 @@ This project features a smooth vertical sliding animation for the time changes a
 
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/ff1caec9-7794-43fa-a4ee-b589bbd414cd" />   <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/752488a0-962d-4e1b-b206-7a6147087c19" />  <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/5c217548-4337-4d45-aefb-7cede49f2f0e" />
 
+DAY                                         NOON                                         NIGHT 
+
 
 
 
