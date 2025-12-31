@@ -3,7 +3,7 @@
 A stylish, interactive digital clock built with **Vanilla HTML, CSS, and JavaScript**. 
 
 This project features a smooth vertical sliding animation for the time changes and a **Dynamic Theme System** that automatically changes the color palette based on the time of day.
-<img width="1229" height="654" alt="image" src="https://github.com/user-attachments/assets/ff1caec9-7794-43fa-a4ee-b589bbd414cd" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/ff1caec9-7794-43fa-a4ee-b589bbd414cd" />
 
 ## ✨ Features
 
