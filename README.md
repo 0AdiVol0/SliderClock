@@ -6,7 +6,8 @@ This project features a smooth vertical sliding animation for the time changes a
 
 ## 📸 Screenshots
 
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ff1caec9-7794-43fa-a4ee-b589bbd414cd" />   <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/752488a0-962d-4e1b-b206-7a6147087c19" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ff1caec9-7794-43fa-a4ee-b589bbd414cd" />   <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/752488a0-962d-4e1b-b206-7a6147087c19" />  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/21b34239-0ad7-46df-8b32-5381a1fc1efb" />
+
 
 
 ## ✨ Features
