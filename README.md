@@ -37,6 +37,6 @@ Since this project uses pure HTML/CSS/JS, you don't need to install any dependen
 
 ```text
 /
-├── index.html   # Main HTML structure
+├── html.html   # Main HTML structure
 ├── style.css    # All styling, animations, and color variables
 └── script.js    # Logic for time calculation, slider movement, and theme switching
