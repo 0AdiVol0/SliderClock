@@ -31,7 +31,7 @@ Since this project uses pure HTML/CSS/JS, you don't need to install any dependen
     git clone [https://github.com/0AdiVol0/SliderClock.git](https://github.com/0AdiVol0/SliderClock.git)
     ```
 2.  **Open the file:**
-    Simply double-click `index.html` to open it in your default web browser.
+    Simply double-click `html.html` to open it in your default web browser.
 
 ## 📂 Project Structure
 
